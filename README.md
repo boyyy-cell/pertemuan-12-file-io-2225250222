@@ -54,3 +54,6 @@ Saya belajar membaca, menulis, dan mengolah data dari file menggunakan Python. S
 
 ## Catatan Pengerjaan
 Proyek ini mencakup latihan membaca, menulis, menambahkan isi file, memproses baris, dan menangani error menggunakan Python.
+
+## Pengujian GitHub
+Kode sumber dan dokumentasi disimpan dalam repository GitHub pada branch main.
