@@ -51,3 +51,6 @@ Jalankan dari folder utama proyek menggunakan terminal:
 
 ## Refleksi
 Saya belajar membaca, menulis, dan mengolah data dari file menggunakan Python. Saya juga memahami bahwa error dapat ditangani menggunakan try-except agar program tidak langsung berhenti ketika menemukan data yang salah.
+
+## Catatan Pengerjaan
+Proyek ini mencakup latihan membaca, menulis, menambahkan isi file, memproses baris, dan menangani error menggunakan Python.
